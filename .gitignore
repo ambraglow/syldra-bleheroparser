@@ -2,3 +2,4 @@
 *.txt
 src/nrftee.code-workspace
 backups/
+.DS_Store
