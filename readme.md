@@ -3,9 +3,9 @@ Tool i used to plot RSSI values to  measure [Syldra](https://github.com/ambraglo
 
 Usage is as follows:
 ```bash
-    cargo run filename first_mac second_mac_address
+cargo run filename first_mac second_mac_address
 ```
 and for plotting the data:
 ```bash
-    cargo run plot
+cargo run plot
 ```
